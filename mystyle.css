@@ -18,6 +18,7 @@ header {
 
 ul.topnav li {
     list-style-type: none;
+    color: gray;
     float: right;
     padding: 10px;
     font-family: 'Raleway', sans-serif;
