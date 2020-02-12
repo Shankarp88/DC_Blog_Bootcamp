@@ -4,23 +4,31 @@ html {
 }
 header {
     padding: 2% 10% 0 10%;
+    font-display: initial;
+}
+
+.logo {
+   display: inline;
+   padding-left: 350px;
 }
 
 .logoname {
     display: inline;
+   /* font-size: 30px; */
     padding-left: 10px;
     font-family: 'Raleway', sans-serif;
 }
 
 .topnav {
     display: inline;
+    /* padding-right: 50px; */
 }
 
 ul.topnav li {
     list-style-type: none;
     color: gray;
     float: right;
-    padding: 10px;
+    padding-right: 90px;
     font-family: 'Raleway', sans-serif;
 }
 header a {
